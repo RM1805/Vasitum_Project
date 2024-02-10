@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import { AppBar, Toolbar, IconButton, Avatar } from '@mui/material';
-import { Search as SearchIcon, NotificationsOutlined as NotificationsIcon, MessageOutlined as MessageIcon, ExpandMore as ExpandMoreIcon, DashboardOutlined as DashboardIcon, PeopleOutlined as PeopleIcon, EventNoteOutlined as EventNoteIcon, GroupOutlined as GroupIcon, SettingsOutlined as SettingsIcon, HelpOutlineOutlined as HelpIcon } from '@material-ui/icons';
+import { Search as SearchIcon, NotificationsOutlined as NotificationsIcon, MessageOutlined as MessageIcon, ExpandMore as ExpandMoreIcon, DashboardOutlined as DashboardIcon, PeopleOutlined as PeopleIcon, EventNoteOutlined as EventNoteIcon, GroupOutlined as GroupIcon, SettingsOutlined as SettingsIcon, HelpOutlineOutlined as HelpIcon } from '@mui/icons-material';
 
 
 const Container = styled.div`
